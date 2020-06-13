@@ -1,49 +1,49 @@
-# _Mr. Roboger Part 2 - the Canadian Edition_
+# _M. Robogé - Édition Canadienne_
 
-#### _An array maniputlation exercise for code review at Epicodus School,  June 12th, 2020_
+#### _Un exercise pour la revue de logique de l'école Epicodus traitant un tableau de nombres manipulé,  le 12, Juin, 2020_
 
-#### By _**Thomas Glenn**_
+#### Par _**Thomas Glenn**_
 
-## Description
+## Représentation
 
-_In this application, a user inputs a number. The output includes all numbers up to and including the user's number with substitutions on particular numbers._
+_Dans cette application web, l'utilisateur entre un nombre. Le résultat comprends tous les chiffres jusqu'au numéro de l'utilisateur inclus, avec les substitutions sur des nombres particuliers._
 
-| Spec |      Input    |  Output |
+| Spécification |      Entrée    |  Sortie |
 |:----------|:-------------|:------|
-| Return the name and input number from the user | "Joe Blow" 2 | "Joe Blow" 2 |
-| Return an array from the user's input number | 4 | 0, 1, 2, 3, 4 |
-| Replace all numbers containing a 1 with "Beep!" |  31 | "Beep!" |
-| Replace all numbers containing a 2 with "Boop!" |   1002  |  "Boop!" |
-| Replace all numbers containing a 3 with "Won't you be my neighbour?" | 23 |  "Won't you be my neighbour?" |
+| Renvoyer le nom et le numéro de l'utilisateur | "Joe Blow" 2 | "Joe Blow" 2 |
+| Renvoyer un tableau de chiffres jusqu'au nombre entré par l'utilisateur  | 4 | 0, 1, 2, 3, 4 |
+| Remplacer les chiffres contenant un 1 avec "Beep!"  |  31 | "Beep!" |
+| Remplacer les chiffres contenant un 2 avec "Boop!" |   1002  |  "Boop!" |
+| Remplacer tous les chiffres contenant un 3 avec "Ne voulez-vous pas etre mon voisin?" | 23 |  "Ne voulez-vous pas etre mon voisin?" |
 
-## Setup/Installation Requirements
+## Configuration/Installation 
 
-* Clone file from https://github.com/thomasglenngit/mrRoboger2 as a .zip file. 
-* When .zip file appears in your desktop, click on file called, "index.html".
-* This will open the application in your web-browser.
-* Once opened, enter your name in the name field, and any number in the number field. (Warning, your number entry will include all numbers from 0 up to, and including, your number...)
-* Enjoy the result!
+* Cloner le fichier de https://github.com/thomasglenngit/ en format .zip. 
+* Lorsque le fichier .zip apparait sur ton écran, clique sur le fichier, "index.html".
+* Cela vous ouvrira l'application dans votre navigateur web.
+* Une fois ouvert, entrez votre nom dans le carré du nom et votre choix de nombre dans le carré du numéro. (Faites attention de ne pas choisir un nombre trop large parce que votre numéro comprendra tous les numéros 0 à votre choix.) 
+* Amusez-vous du resultat!
 
-No additional servers, software, databases or other codes or applications are necessary to run this software.
+Aucun serveur, logiciel, base de données ou autre code ou application supplémentaire n'est nécessaire pour exécuter ce logiciel.
 
-## Known Bugs:
+## Problemes Connus:
 
-All of them.
+Il exist une interruption à travers le lien entre la page en Anglais et celle en Français.
 
-## Support and contact details
+## Détails de contact et de support
 
-For information, questions, or advice (I really do seek it...), please message me via my github or LinkedIn profile:
+Pour des questions, information, ou pour offrir les avis, s'il vous plait envoyez-moi un message via gitHub où LinkedIn:
 
 https://github.com/thomasglenngit
 https://www.linkedin.com/in/glennergy/
 
 
-## Technologies Used
+## Technologies Utilisé
 
 .HTML, .CSS, .Bootstrap-3.4.1., jQuery-3.5.1, JavaScript, VisualStudioCode, GitHub, Google Chrome DevTools
 
-### License
+### Permis
 
-*This application is licensed under the MIT license.*
+*Cette application est permise sous licence MIT.*
 
 Copyright (c) 2020 **_Thomas Glenn_**
